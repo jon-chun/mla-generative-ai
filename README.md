@@ -16,9 +16,9 @@ As artificial intelligences (AIs) in the form of “large language models” and
 
 * [ChatGPT, LLM and Beyond in *.ppt](./MLA_Conference_Philadelphia_20240104_Session148_EthicsPracticeAI_JonChun_LLMsChatGPT.pptx)
 
-* [ChatGPT, LLM and Beyond in *.pd](./MLA_Conference_Philadelphia_20240104_Session148_EthicsPracticeAI_JonChun_LLMsChatGPT)
+* [ChatGPT, LLM and Beyond in *.pdf](./MLA_Conference_Philadelphia_20240104_Session148_EthicsPracticeAI_JonChun_LLMsChatGPT.pdf)
 
-* [ChatGPT, LLM and Beyond in *.pdf with links](./MLA_Conference_Philadelphia_20240104_Session148_EthicsPracticeAI_JonChun_LLMsChatGPT_with_footnote_links)
+* [ChatGPT, LLM and Beyond in *.pdf with links](./MLA_Conference_Philadelphia_20240104_Session148_EthicsPracticeAI_JonChun_LLMsChatGPT_with_footnote_links.pdf)
 
 
 ### Description
