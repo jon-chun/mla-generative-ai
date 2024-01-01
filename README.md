@@ -3,8 +3,7 @@
 * Jan 4th - 7th
 * Philadelphia, PA
 
-## (Session 148 – Ethics and Practice of AIs in the Academy)[Session 148 – Ethics and Practice of AIs in the Academy]
-* [MLA Committee on Technlogy Conference Webpage](https://infotech.mla.hcommons.org/2023/mla2024-s148/)
+## [Session 148 – Ethics and Practice of AIs in the Academy](https://infotech.mla.hcommons.org/2023/mla2024-s148/)
 * 4 January 2024, 7:00 – 8:15 PM EST (Convention Program page)
 * Marriott – Franklin 2
 * Hashtags: #mla24, #s148
@@ -15,11 +14,11 @@ As artificial intelligences (AIs) in the form of “large language models” and
 
 ![Cover Slide](./mla_2024_chatgpt_cover_slide.png)
 
-* [ChatGPT, LLM and Beyond in *.ppt]("MLA_Conference_Philadelphia_20240104_Session148_EthicsPracticeAI_JonChun_LLMsChatGPT.pptx")
+* [ChatGPT, LLM and Beyond in *.ppt](./MLA_Conference_Philadelphia_20240104_Session148_EthicsPracticeAI_JonChun_LLMsChatGPT.pptx)
 
-* [ChatGPT, LLM and Beyond in *.pd]("MLA_Conference_Philadelphia_20240104_Session148_EthicsPracticeAI_JonChun_LLMsChatGPT")
+* [ChatGPT, LLM and Beyond in *.pd](./MLA_Conference_Philadelphia_20240104_Session148_EthicsPracticeAI_JonChun_LLMsChatGPT)
 
-* [ChatGPT, LLM and Beyond in *.pdf with links]("MLA_Conference_Philadelphia_20240104_Session148_EthicsPracticeAI_JonChun_LLMsChatGPT_with_footnote_links")
+* [ChatGPT, LLM and Beyond in *.pdf with links](./MLA_Conference_Philadelphia_20240104_Session148_EthicsPracticeAI_JonChun_LLMsChatGPT_with_footnote_links)
 
 
 ### Description
