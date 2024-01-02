@@ -26,9 +26,9 @@ As artificial intelligences (AIs) in the form of “large language models” and
 
 ### Comment
 
-My goal is to provide clarifying mental models and give a concise overview of the sometimes confusing end-to-end implementation/use of ChatGPT/LLMs. As a result, I'll necessarily be eliding over many important details and useful resource links that listeners may want to refer to later. 
+My presentation aims to provide clarifying mental models and give a concise overview of the sometimes confusing end-to-end implementation/use of ChatGPT/LLMs.
 
-I hope my presentation can overcome some common misperceptions and spark both curiosity and better-grounded critiques of AI LLMs as research/teaching opportunities.
+I hope my presentation can overcome some common misperceptions and spark both curiosity and better-grounded critiques of AI LLMs in research and pedagogy.
 
 
 
