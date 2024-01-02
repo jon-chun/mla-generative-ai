@@ -1,5 +1,4 @@
-# Modern Language Association
-* 2024 Conference
+# [Modern Language Association 2024 Convention](https://www.mla.org/Events/2024-MLA-Convention)
 * Jan 4th - 7th
 * Philadelphia, PA
 
