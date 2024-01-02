@@ -30,6 +30,13 @@ My presentation aims to provide clarifying mental models and give a concise over
 
 I hope my presentation can overcome some common misperceptions and spark both curiosity and better-grounded critiques of AI LLMs in research and pedagogy.
 
+### Proposal
+
+My proposed presentation on ChatGPT is an extension of several I have given including the Narrative2022/2023 conferences as well as three since January 2023 at Kenyon College (for the community, admissions and communications). I have been particularly vested in strategizing around the disruptions AI models like ChatGPT are creating. I have been deeply involved in generative AI as co-founder of the first human-centric AI Digital Humanities curriculum in Kenyon’s Integrated Program for Humane Studies (since 2016) and have been publishing research on GPT since GPT2 was first publicly released in 2019.
+
+I’ll focus on four topics. The first topic explains how ChatGPT works, contrasting current vs inherent abilities and limitations. Second, I present a detailed exposition on the rapidly evolving art of prompt engineering. Much confusion around LLMs stem from misunderstandings around poorly documented prompting in terms of taxonomy and interaction. Third, I’ll present a theoretical mental model of how ChatGPT represents, manipulates and generates coherent language based upon linguistics, neuroscience, complexity theory and AI research. Finally, I’ll close with research trends and timelines.
+
+
 
 
 
