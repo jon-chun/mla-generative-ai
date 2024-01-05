@@ -1,3 +1,5 @@
+![Logo MLA2024 Convention](./mla24org-appbanner.png)
+
 # [Modern Language Association 2024 Convention](https://www.mla.org/Events/2024-MLA-Convention)
 * Jan 4th - 7th
 * Philadelphia, PA
